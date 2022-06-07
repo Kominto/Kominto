@@ -1,6 +1,8 @@
 # Hoi!
-I'm Koko, an IT student and aspiring game dev.
-Linux user 'till the end!
+I'm Koko, an IT student and aspiring game dev.>
+
+Linux user 'till the end, Arch my beloved <3
+
 Mainly using C++ and Python for now.
 
 ## Current Projects

@@ -1,5 +1,5 @@
 # Hoi!
-I'm Koko, an IT student and aspiring game dev.>
+I'm Koko, an IT student and aspiring game dev.
 
 Linux user 'till the end, Arch my beloved <3
 

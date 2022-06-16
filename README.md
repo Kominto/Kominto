@@ -1,9 +1,9 @@
-# Hoi!
-I'm Koko, an IT student and aspiring game dev.
+# Hello there!
+IT student and aspiring game dev
 
 Linux user 'till the end, Arch my beloved <3
 
-Mainly using C++ and Python for now.
+Mainly using C++ and Python right now
 
 ## Current Projects
 * Kinoko, a multi-purpose discord bot (which only does one thing for now, not very multi-purpose eh)

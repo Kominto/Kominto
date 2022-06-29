@@ -1,12 +1,12 @@
-# Hello there!
-IT student and aspiring game dev
+# Hi!
 
-Linux user 'till the end, Arch my beloved <3
-
-Mainly using C++ and Python right now
+## About me
+I'm a french IT student, and aspiring game developer (video games are basically my entire life). 
+Daily Linux user, bless Arch!
+I mainly code in C++ and Python, and have some knowledge of PHP, SQL and Java.
 
 ## Current Projects
-* Kinoko, a multi-purpose discord bot (which only does one thing for now, not very multi-purpose eh)
+* Kinoko, a multi-purpose discord bot
 * A small game using SDL2 and C++
 
 ## Future plans
@@ -14,3 +14,5 @@ Mainly using C++ and Python right now
 * Understanding how the hell does OpenGl works
 * More games
  
+## Contacts
+You can email me at l.lecluse@protonmail.com
